@@ -1,3 +1,3 @@
 # climoto-web
 
-Visit (Twitter](https://climoto.github.io/)
+Visit [Twitter](https://climoto.github.io/)
